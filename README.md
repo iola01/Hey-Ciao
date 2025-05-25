@@ -9,11 +9,13 @@ Right now, I’m exploring Active Directory, working with virtual machines, and 
 
 Active Directory: OU structure, users, groups, GPOs
 
-Microsoft 365, Spiceworks, Zendesk (exploring Microsoft Entra)
+Microsoft 365, Spiceworks, Zendesk, Microsoft Entra.
+
+Familiar with Microsoft Defender.
 
 Command Line & Scripting: Comfortable using CMD, PowerShell, and Linux terminal
 
-Operating Systems: Windows, Linux (currently learning more on my Raspberry Pi)
+Operating Systems: Windows, Linux (currently installed on my desktop computer and raspberry pi)
 
 Windows Server: Building virtual environments using VirtualBox
 
